@@ -90,22 +90,21 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Jeferson Ferreira - jeferson0993@gmail.com
 
-Project Link: [Repository](https://github.com/jeferson0993/#)
+Project Link: [Repository](https://github.com/jeferson0993/svelte-blog)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jeferson0993/#.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/jeferson0993/svelte-blog.svg?style=flat-square
 [contributors-url]: https://github.com/jeferson0993/svelte-blog/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jeferson0993/#.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/jeferson0993/svelte-blog.svg?style=flat-square
 [forks-url]: https://github.com/jeferson0993/svelte-blog/network/members
-[stars-shield]: https://img.shields.io/github/stars/jeferson0993/#.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/jeferson0993/svelte-blog.svg?style=flat-square
 [stars-url]: https://github.com/jeferson0993/svelte-blog/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jeferson0993/#.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/jeferson0993/svelte-blog.svg?style=flat-square
 [issues-url]: https://github.com/jeferson0993/svelte-blog/issues
-[license-shield]: https://img.shields.io/github/license/jeferson0993/#.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/jeferson0993/svelte-blog.svg?style=flat-square
 [license-url]: https://github.com/jeferson0993/svelte-blog/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jeferson-ferreira-4a036b143/
-
