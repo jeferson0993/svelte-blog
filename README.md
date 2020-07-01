@@ -45,14 +45,15 @@ Here you'll find a project that are currently under construction.
 
 Below are some images from the blog webapp with Svelte 3
 
-![Svelte 3 blog](![Screenshot_2020-07-01 Blog App](https://user-images.githubusercontent.com/29678099/86266627-de2c6d80-bb9b-11ea-8fae-b0da14caa27c.png))
+![Screenshot_2020-07-01 Blog App](https://user-images.githubusercontent.com/29678099/86266627-de2c6d80-bb9b-11ea-8fae-b0da14caa27c.png)
 
 ### Built With
 Which Languages and Libraries are used :
 * [Svelte 3](https://svelte.dev/)
-* [Firebase Realtime Database](https://firebase.google.com/products/realtime-database/)
-* [Now](https://zeit.co/now)
 * [Materialize CSS](https://materializecss.com/about.html)
+* [Jsonplaceholder api](https://jsonplaceholder.typicode.com/)
+* [Router with Pages.js](https://www.npmjs.com/package/page)
+* [Deploy with Vercel](https://vercel.com/home)
 
 ## Concept
 
