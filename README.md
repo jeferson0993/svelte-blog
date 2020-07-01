@@ -4,8 +4,10 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+<br />
+# Under Construction :construction:
 
-
+Here you'll find a project that are currently under construction.
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -17,10 +19,10 @@
   <p align="center">
     Published with Now, design with materializer e interact with Jsonplaholder api.
     <br />
-    <a href="https://#.now.sh/"><strong>View Demo</strong></a>
+    <a href="https://svelte-blog.vercel.app/"><strong>View Demo</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jeferson0993/#/issues">Report Bug</a>
+    <a href="https://github.com/jeferson0993/svelte-blog/issues">Report Bug</a>
     ·
     <a href="https://github.com/jeferson0993/">Some Others Repos</a>
   </p>
@@ -43,7 +45,7 @@
 
 Below are some images from the blog webapp with Svelte 3
 
-![Svelte 3 blog](https://user-images.githubusercontent.com/#.png)
+![Svelte 3 blog](![Screenshot_2020-07-01 Blog App](https://user-images.githubusercontent.com/29678099/86266627-de2c6d80-bb9b-11ea-8fae-b0da14caa27c.png))
 
 ### Built With
 Which Languages and Libraries are used :
@@ -54,12 +56,12 @@ Which Languages and Libraries are used :
 
 ## Concept
 
-> [Live Demo](https://#.now.sh/)
+> [Live Demo](https://svelte-blog.vercel.app/)
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/jeferson0993/#/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/jeferson0993/svelte-blog/issues) for a list of proposed features (and known issues).
 
 
 
@@ -95,15 +97,15 @@ Project Link: [Repository](https://github.com/jeferson0993/#)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jeferson0993/#.svg?style=flat-square
-[contributors-url]: https://github.com/jeferson0993/#/graphs/contributors
+[contributors-url]: https://github.com/jeferson0993/svelte-blog/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/jeferson0993/#.svg?style=flat-square
-[forks-url]: https://github.com/jeferson0993/#/network/members
+[forks-url]: https://github.com/jeferson0993/svelte-blog/network/members
 [stars-shield]: https://img.shields.io/github/stars/jeferson0993/#.svg?style=flat-square
-[stars-url]: https://github.com/jeferson0993/#/stargazers
+[stars-url]: https://github.com/jeferson0993/svelte-blog/stargazers
 [issues-shield]: https://img.shields.io/github/issues/jeferson0993/#.svg?style=flat-square
-[issues-url]: https://github.com/jeferson0993/#/issues
+[issues-url]: https://github.com/jeferson0993/svelte-blog/issues
 [license-shield]: https://img.shields.io/github/license/jeferson0993/#.svg?style=flat-square
-[license-url]: https://github.com/jeferson0993/#/blob/master/LICENSE
+[license-url]: https://github.com/jeferson0993/svelte-blog/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jeferson-ferreira-4a036b143/
 
