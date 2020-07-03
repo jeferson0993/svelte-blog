@@ -2,14 +2,14 @@
 </script>
 
 <h1>About</h1>
-<p align="center">
+<div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://user-images.githubusercontent.com/29678099/71330693-1ed06d80-250d-11ea-9b98-a04279392272.jpeg" alt="Logo" width="80" height="80" style="border-radius: 50%;">
   </a>
-
+</div>
+<div>
   <h2 align="center">BLOG with Svelte 3</h2>
-
-  <p align="center">
+  <p>
     Published with Now, design with materializer e interact with Jsonplaholder api.
     <br />
     <a href="https://github.com/jeferson0993/svelte-blog/"><strong>View Code</strong></a>
@@ -19,7 +19,7 @@
     ·
     <a href="https://github.com/jeferson0993/">Some Others Repos</a>
   </p>
-</p>
+</div>
 
 <br />
 <!-- ABOUT THE PROJECT -->
